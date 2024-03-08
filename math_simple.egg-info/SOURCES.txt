@@ -1,0 +1,6 @@
+README.md
+setup.py
+math_simple.egg-info/PKG-INFO
+math_simple.egg-info/SOURCES.txt
+math_simple.egg-info/dependency_links.txt
+math_simple.egg-info/top_level.txt
