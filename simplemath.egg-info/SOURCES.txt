@@ -1,0 +1,9 @@
+README.md
+setup.py
+mathsimple/__init__.py
+mathsimple/geometry.py
+mathsimple/operations.py
+simplemath.egg-info/PKG-INFO
+simplemath.egg-info/SOURCES.txt
+simplemath.egg-info/dependency_links.txt
+simplemath.egg-info/top_level.txt
