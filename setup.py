@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A simple Python package for math operations and geometry cal
 
 # Setting up
 setup(
-    name="simplemath",
+    name="mathtiar",
     version=VERSION,
     author="Ikhtiar Oktafio Wibowo",
     author_email="tiarokta@gmail.com",
